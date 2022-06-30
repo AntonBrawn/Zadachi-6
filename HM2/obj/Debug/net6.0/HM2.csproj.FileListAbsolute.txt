@@ -1,0 +1,15 @@
+C:\program\Ychebaa\HomeWork 6\HM2\bin\Debug\net6.0\HM2.exe
+C:\program\Ychebaa\HomeWork 6\HM2\bin\Debug\net6.0\HM2.deps.json
+C:\program\Ychebaa\HomeWork 6\HM2\bin\Debug\net6.0\HM2.runtimeconfig.json
+C:\program\Ychebaa\HomeWork 6\HM2\bin\Debug\net6.0\HM2.dll
+C:\program\Ychebaa\HomeWork 6\HM2\bin\Debug\net6.0\HM2.pdb
+C:\program\Ychebaa\HomeWork 6\HM2\obj\Debug\net6.0\HM2.csproj.AssemblyReference.cache
+C:\program\Ychebaa\HomeWork 6\HM2\obj\Debug\net6.0\HM2.GeneratedMSBuildEditorConfig.editorconfig
+C:\program\Ychebaa\HomeWork 6\HM2\obj\Debug\net6.0\HM2.AssemblyInfoInputs.cache
+C:\program\Ychebaa\HomeWork 6\HM2\obj\Debug\net6.0\HM2.AssemblyInfo.cs
+C:\program\Ychebaa\HomeWork 6\HM2\obj\Debug\net6.0\HM2.csproj.CoreCompileInputs.cache
+C:\program\Ychebaa\HomeWork 6\HM2\obj\Debug\net6.0\HM2.dll
+C:\program\Ychebaa\HomeWork 6\HM2\obj\Debug\net6.0\refint\HM2.dll
+C:\program\Ychebaa\HomeWork 6\HM2\obj\Debug\net6.0\HM2.pdb
+C:\program\Ychebaa\HomeWork 6\HM2\obj\Debug\net6.0\HM2.genruntimeconfig.cache
+C:\program\Ychebaa\HomeWork 6\HM2\obj\Debug\net6.0\ref\HM2.dll
