@@ -1,0 +1,15 @@
+C:\program\Ychebaa\HomeWork 6\HM1\bin\Debug\net6.0\HM1.exe
+C:\program\Ychebaa\HomeWork 6\HM1\bin\Debug\net6.0\HM1.deps.json
+C:\program\Ychebaa\HomeWork 6\HM1\bin\Debug\net6.0\HM1.runtimeconfig.json
+C:\program\Ychebaa\HomeWork 6\HM1\bin\Debug\net6.0\HM1.dll
+C:\program\Ychebaa\HomeWork 6\HM1\bin\Debug\net6.0\HM1.pdb
+C:\program\Ychebaa\HomeWork 6\HM1\obj\Debug\net6.0\HM1.csproj.AssemblyReference.cache
+C:\program\Ychebaa\HomeWork 6\HM1\obj\Debug\net6.0\HM1.GeneratedMSBuildEditorConfig.editorconfig
+C:\program\Ychebaa\HomeWork 6\HM1\obj\Debug\net6.0\HM1.AssemblyInfoInputs.cache
+C:\program\Ychebaa\HomeWork 6\HM1\obj\Debug\net6.0\HM1.AssemblyInfo.cs
+C:\program\Ychebaa\HomeWork 6\HM1\obj\Debug\net6.0\HM1.csproj.CoreCompileInputs.cache
+C:\program\Ychebaa\HomeWork 6\HM1\obj\Debug\net6.0\HM1.dll
+C:\program\Ychebaa\HomeWork 6\HM1\obj\Debug\net6.0\refint\HM1.dll
+C:\program\Ychebaa\HomeWork 6\HM1\obj\Debug\net6.0\HM1.pdb
+C:\program\Ychebaa\HomeWork 6\HM1\obj\Debug\net6.0\HM1.genruntimeconfig.cache
+C:\program\Ychebaa\HomeWork 6\HM1\obj\Debug\net6.0\ref\HM1.dll
